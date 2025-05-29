@@ -36,10 +36,6 @@
 ![PHP](https://img.shields.io/badge/-PHP%20-05122A?style=flat&logo=php)&nbsp;
 
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamad-hamdi&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
 <a href="https://komarev.com/ghpvc/?username=mohamad-hamdi&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mohamad-hamdi&style=for-the-badge">
 </a>
