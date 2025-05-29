@@ -34,6 +34,10 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=c++)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP%20-05122A?style=flat&logo=php)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL%20-05122A?style=flat&logo=mysql)&nbsp; 
+![Vue](https://img.shields.io/badge/-Vue%20-05122A?style=flat&logo=vue)&nbsp; 
+![PugJs](https://img.shields.io/badge/-PugJs%20-05122A?style=flat&logo=pugjs)&nbsp; 
+![GulbJs](https://img.shields.io/badge/-GulbJs%20-05122A?style=flat&logo=gulbjs)&nbsp; 
 
 
 <a href="https://komarev.com/ghpvc/?username=mohamad-hamdi&style=for-the-badge">
